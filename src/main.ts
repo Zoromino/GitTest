@@ -9,3 +9,6 @@ import "./style.css";
 // Haydeé waas here too
 
 // SOSOSOSOOSOSOSOSO
+
+const x = 10;
+console.log(x);
