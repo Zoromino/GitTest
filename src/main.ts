@@ -17,5 +17,6 @@ let y = 20;
 console.log(y);
 console.log(x * x);
 
+let z = 40;
 const y = 20;
 console.log(y);
