@@ -24,3 +24,4 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 setupCounter(document.querySelector<HTMLButtonElement>("#counter")!);
 
 // Sakarias was here
+// Sakarias was here again
