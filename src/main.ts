@@ -18,7 +18,7 @@ console.log(y);
 console.log(x * x);
 
 let z = 40;
-const y2 = 20;
-console.log(y + z);
+const q = 20;
+console.log(q + z);
 
 // Diana was here yet again
